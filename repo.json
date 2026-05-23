@@ -1,0 +1,8 @@
+{
+  "name": "Bangla Live Repo",
+  "description": "Bangla TV Channels",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/moko-hub/bangla-live-tv/main/plugins.json"
+  ]
+}
