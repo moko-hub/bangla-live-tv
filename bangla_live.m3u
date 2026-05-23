@@ -1,22 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment",Star Jalsha
-https://www.yupptv.com/yupptvnew/channels/star-jalsha/live/embed frameborder="0"  width="560"  height="315"  gesture="media"  allow="encrypted-media"  allowfullscreen></iframe>
-
-#EXTINF:-1 group-title="Sports",Star Sports Hindi
-https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
-
-#EXTINF:-1 group-title="Entertainment",Sony Aath
-https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1779539403~acl=/*~id=76109020349164550529672849605973~hmac=62112dd74581a5d6f886708e2af6b48094ef6ed73ebb775935221df7c20e8673
-
-#EXTINF:-1 group-title="Entertainment",Zee Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-
-#EXTINF:-1 group-title="News",ABP Ananda
-https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_Ananda_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 group-title="News",Zee 24 Ghanta
-https://jiotvmblive.cdn.jio.com/bpk-tv/24_Ghanta_TV_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 group-title="News",R Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/R_Bangla_MOB/WDVLive/index.mpd
+#EXTINF:-1 group-title="Entertainment"
+https://iptv-org.github.io/iptv/languages/ben.m3u
