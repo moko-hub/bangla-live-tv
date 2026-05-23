@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "BanglaLive",
+    "url": "https://raw.githubusercontent.com/moko-hub/bangla-live-tv/main/bangla_live.m3u",
+    "version": 1
+  }
+]
