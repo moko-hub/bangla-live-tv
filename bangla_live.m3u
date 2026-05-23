@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Entertainment",Star Jalsha
-<iframe src=https://www.yupptv.com/yupptvnew/channels/star-jalsha/live/embed frameborder="0"  width="560"  height="315"  gesture="media"  allow="encrypted-media"  allowfullscreen></iframe>
+https://www.yupptv.com/yupptvnew/channels/star-jalsha/live/embed frameborder="0"  width="560"  height="315"  gesture="media"  allow="encrypted-media"  allowfullscreen></iframe>
 
 #EXTINF:-1 group-title="Sports",Star Sports Hindi
 https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd
